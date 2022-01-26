@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1642512482 "d:/Projects/IoT Lab/LAB1/LAB1.tex" "LAB1.pdf" "LAB1" 1642512484
+["pdflatex"] 1643209393 "d:/Projects/IoT Lab/LAB1/LAB1.tex" "LAB1.pdf" "LAB1" 1643209396
   "C:/Users/Minh Chu/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1642511371 128883 a801f125df3ad8b6fd6afa55a553b80f ""
   "C:/Users/Minh Chu/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1642511224 9771425 2ce113e62c27a11b5c9f2368e48014ea ""
   "C:/Users/Minh Chu/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm1095.tfm" 993062124 3172 eb6efaa83c6c52473a1c403f376eab0f ""
@@ -172,11 +172,11 @@
   "C:/Users/Minh Chu/AppData/Local/Programs/MiKTeX/tex/latex/vntex/vietnam.sty" 1368738347 2477 91784aa2c9213f74609391e3cae65a13 ""
   "C:/Users/Minh Chu/AppData/Local/Programs/MiKTeX/tex/latex/vntex/vncaps.tex" 1368738347 3273 a55ebdb07413d2fea580f210e3c0b252 ""
   "C:/Users/Minh Chu/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1636284872 56029 3f7889dab51d620aa43177c391b7b190 ""
-  "LAB1.aux" 1642512484 1738 594570c2c88967c11714032c0e35258b "pdflatex"
-  "LAB1.out" 1642512484 1643 4e58b4c0d488892f95652630a3a33558 "pdflatex"
-  "LAB1.tex" 1642512481 6013 41f68034fa12e670c6ac47aaa0913a4e ""
-  "LAB1.toc" 1642512484 724 d40e6177700c25625c74cdfbb3a99687 "pdflatex"
-  "d:/Projects/IoT Lab/LAB1/LAB1.tex" 1642512481 6013 41f68034fa12e670c6ac47aaa0913a4e ""
+  "LAB1.aux" 1643209395 1738 594570c2c88967c11714032c0e35258b "pdflatex"
+  "LAB1.out" 1643209395 1643 4e58b4c0d488892f95652630a3a33558 "pdflatex"
+  "LAB1.tex" 1643209391 6032 ebf016dac9c974c18863d356c65aad56 ""
+  "LAB1.toc" 1643209395 724 d40e6177700c25625c74cdfbb3a99687 "pdflatex"
+  "d:/Projects/IoT Lab/LAB1/LAB1.tex" 1643209391 6032 ebf016dac9c974c18863d356c65aad56 ""
   "hcmut.png" 1642411002 15500 472a8c05c4ec56839c0bd57622ec7631 ""
   (generated)
   "LAB1.aux"

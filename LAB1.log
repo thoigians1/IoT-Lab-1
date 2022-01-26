@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.1.18)  18 JAN 2022 20:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.1.18)  26 JAN 2022 22:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -902,13 +902,13 @@ Package rerunfilecheck Info: File `LAB1.out' has not changed.
 Here is how much of TeX's memory you used:
  22931 strings out of 478659
  421074 string characters out of 2844462
- 867791 words of memory out of 3000000
+ 868791 words of memory out of 3000000
  40617 multiletter control sequences out of 15000+600000
  420049 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,24n,80p,438b,529s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/Minh Chu/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnb10.pfb><C:/Users/Minh Chu/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr10.pfb><C:/Users/Minh Chu/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr9.pfb><C:/Users/Minh Chu/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnti10.pfb><C:/Users/Minh Chu/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt10.pfb><C:/Users/Minh Chu/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt8.pfb>
-Output written on LAB1.pdf (4 pages, 91577 bytes).
+Output written on LAB1.pdf (4 pages, 91527 bytes).
 PDF statistics:
  110 PDF objects out of 1000 (max. 8388607)
  13 named destinations out of 1000 (max. 500000)
