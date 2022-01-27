@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.1.18)  26 JAN 2022 22:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.1.18)  27 JAN 2022 22:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -908,9 +908,9 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  84i,24n,80p,438b,529s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/Minh Chu/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnb10.pfb><C:/Users/Minh Chu/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr10.pfb><C:/Users/Minh Chu/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr9.pfb><C:/Users/Minh Chu/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnti10.pfb><C:/Users/Minh Chu/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt10.pfb><C:/Users/Minh Chu/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt8.pfb>
-Output written on LAB1.pdf (4 pages, 91527 bytes).
+Output written on LAB1.pdf (4 pages, 92318 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
+ 111 PDF objects out of 1000 (max. 8388607)
  13 named destinations out of 1000 (max. 500000)
  82 words of extra memory for PDF output out of 10000 (max. 10000000)
 
